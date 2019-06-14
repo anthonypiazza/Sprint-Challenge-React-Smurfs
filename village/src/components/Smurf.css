@@ -1,0 +1,35 @@
+.Smurf{
+    margin: 10px 30%;;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px 0%;
+    color: white;
+    font-size: 2rem;
+    -webkit-text-stroke: 1px orange;
+}
+
+h1{
+    color: white;
+    font-size: 2rem;
+    -webkit-text-stroke: 1px orange;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    margin: 0px 35%;
+    border-radius: 10px;
+}
+
+input{
+    padding: 10px 0% 10px 20px;
+    font-size: 1.5rem;
+}
+
+button{
+    color: white;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 20px 0%;
+    font-size: 2rem;
+}
