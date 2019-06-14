@@ -11,7 +11,7 @@ class SmurfForm extends Component {
     };
   }
 
-  addSmurf = (event, props) => {
+  addSmurf = event => {
     event.preventDefault();
     const newSmurf = {
       name: this.state.name,
